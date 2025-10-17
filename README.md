@@ -7,6 +7,6 @@ Prank your friends with a ethernet cable that disconnects randomly
 - arduino (I use arduino micro)
 - relay
 - ethernet cable
-- cable stripper
-- soldering station
-- patience
+- arduino IDE
+
+clone the project, open the .ino file with arduino IDE, plug your arduino, upload the code and you are ready to go
