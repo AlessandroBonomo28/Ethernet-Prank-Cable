@@ -1,5 +1,5 @@
 # Ethernet prank cable
-Prank your friends with a ethernet cable that disconnects randomly
+Prank your friends with an ethernet cable that disconnects randomly
 
 <img width="811" height="525" alt="prank" src="https://github.com/user-attachments/assets/b3a4f4ce-f0b8-4c08-bcab-e5dcb6e7f144" />
 
