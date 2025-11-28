@@ -11,4 +11,4 @@ Prank your friends with an ethernet cable that disconnects randomly
 
 clone the project, open the .ino file with arduino IDE, plug your arduino, upload the code and you are ready to go
 
-- code [here](https://github.com/AlessandroBonomo28/Ethernet-Prank-Cable/EthernetPrank/EthernetPrank.ino)
+- code [here](https://github.com/AlessandroBonomo28/Ethernet-Prank-Cable/blob/main/EthernetPrank/EthernetPrank.ino)
